@@ -2,3 +2,4 @@
 
 Update this README to include your team name and team members. Don't forget to record all your answers to lab 05 in this repository.
 Brodie Fogarty - bfog012
+Ricky xu - xxu281
